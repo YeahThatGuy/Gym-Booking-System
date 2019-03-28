@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Review
+comment0.text=\n\ Write\ a\ description\ of\ class\ Review\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Review()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Review\n
+comment10.params=
+comment10.target=java.lang.String\ getClassReview()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=registeredMember\ registeredClass\ score\ classReview
+comment2.target=Review(Member,\ FitnessClass,\ int,\ java.lang.String)
+comment3.params=registeredMember
+comment3.target=void\ setMember(Member)
+comment4.params=
+comment4.target=java.lang.String\ getMember()
+comment5.params=registeredClass
+comment5.target=void\ setRegisteredClass(FitnessClass)
+comment6.params=
+comment6.target=java.lang.String\ getRegisteredClass()
+comment7.params=score
+comment7.target=void\ setScore(int)
+comment8.params=
+comment8.target=int\ getScore()
+comment9.params=classReview
+comment9.target=void\ setClassReview(java.lang.String)
+numComments=12
